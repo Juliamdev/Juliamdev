@@ -1,10 +1,9 @@
-## Hi there 👋
-# Olá, eu sou a [Seu Nome]! 🚀
+# Olá, eu sou a Júlia! 
 
 Estudante de Sistemas de Informação na PUC Minas e Estagiária de TI na Receita Federal. 
 Desenvolvedora Full Stack em evolução e Pesquisadora de Iniciação Científica.
 
-## 🛠 Tecnologias
+##  Tecnologias
 - **Linguagens:** C#, JavaScript, SQL
 - **Front-end:** HTML, CSS, React (estudando)
 - **IA:** YOLO (You Only Look Once), Python
