@@ -4,13 +4,13 @@ Estudante de Sistemas de Informação na PUC Minas e Estagiária de TI na Receit
 Desenvolvedora Full Stack em evolução e Pesquisadora de Iniciação Científica.
 
 ##  Tecnologias
-- **Linguagens:** C#, JavaScript, SQL
-- **Front-end:** HTML, CSS, React (estudando)
-- **IA:** YOLO (You Only Look Once), Python
+ **Linguagens:** C#, JavaScript, SQL
+ **Front-end:** HTML, CSS, React (estudando)
+ **IA:** YOLO (You Only Look Once), Python
 
 ##  Pesquisa e Projetos
-- **Projeto YOLO Hospitalar:** Desenvolvimento de software para detecção de insumos cirúrgicos.
-- **GitHub:** Aqui você encontra meus laboratórios acadêmicos e projetos pessoais.
+ **Projeto YOLO Hospitalar:** Desenvolvimento de software para detecção de insumos cirúrgicos.
+ **GitHub:** Aqui você encontra meus laboratórios acadêmicos e projetos pessoais.
 
  Linkedin: [julia-marques-fialho](https://www.linkedin.com/in/julia-marques-fialho/)
 <!--
