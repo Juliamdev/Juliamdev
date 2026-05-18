@@ -13,9 +13,11 @@ Sou uma desenvolvedora focada no ecossistema **Back-end e Visão Computacional**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Inteligência Artificial & Visão Computacional
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-OpenCV-00FFFF?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Front-end & Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,15 +34,6 @@ Desenvolvimento de um software de Visão Computacional focado na automação e i
 
 ### 💰 VisionFinance
 Sistema de gerenciamento financeiro e controle de fluxo de capital desenvolvido em **C# e .NET**, focado em arquitetura limpa e organização lógica de dados.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliamdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliamdev&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 ---
 
