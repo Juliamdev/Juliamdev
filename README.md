@@ -1,3 +1,12 @@
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Input%20text&section=header&textBg=false&fontColor=000000&fontSize=50&fontAlign=58&animation=fadeIn&reversal=false&descAlign=52"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7E5F&center=true&width=600&lines=Hello!+I'm+Julia+%3C3;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+</div>
 # Olá, eu sou a Júlia Marques! 
 
 Estudante de Sistemas de Informação na PUC Minas, Pesquisadora de Iniciação Científica e Estagiária de TI na Receita Federal. 
