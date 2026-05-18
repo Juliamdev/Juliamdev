@@ -1,4 +1,4 @@
-# Olá, eu sou a Júlia Marques! 👋
+# Olá, eu sou a Júlia Marques! 
 
 Estudante de Sistemas de Informação na PUC Minas, Pesquisadora de Iniciação Científica e Estagiária de TI na Receita Federal. 
 
@@ -6,7 +6,7 @@ Sou uma desenvolvedora focada no ecossistema **Back-end e Visão Computacional**
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### Back-end & Banco de Dados
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -38,13 +38,13 @@ Sistema de gerenciamento financeiro e controle de fluxo de capital desenvolvido 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliamdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliamdev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-## 📬 Vamos nos conectar?
+## Vamos nos conectar?
 
 - **LinkedIn:** [julia-marques-fialho](https://www.linkedin.com/in/julia-marques-fialho/)
 - **E-mail:** [juliamarfialho@gmail.com](mailto:juliamarfialho@gmail.com)
