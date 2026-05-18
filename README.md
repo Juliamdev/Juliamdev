@@ -16,7 +16,7 @@ Sou fascinada por decifrar problemas complexos através do código. Meu foco pri
 ---
 
 
-## 🛠️ Tecnologias e Ecossistema
+## 🛠️ Tecnologias e Ferramentas
 
 ### 🖥️ Back-end & Engenharia de Dados
 <div align="left">
@@ -29,12 +29,16 @@ Sou fascinada por decifrar problemas complexos através do código. Meu foco pri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" title="PHP"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="35" title="SQL" style="filter: invert(41%) sepia(84%) saturate(356%) hue-rotate(182deg) brightness(93%) contrast(93%);"/>
 </div>
 
 <br>
 
 ### 🧠 Inteligência Artificial & Ferramentas
 <div align="left">
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Logo-Ultralytics-White-Logomark.svg" height="35" title="YOLO / Ultralytics" style="filter: invert(58%) sepia(87%) saturate(417%) hue-rotate(129deg) brightness(91%) contrast(89%);"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" title="OpenCV"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/>
@@ -42,6 +46,16 @@ Sou fascinada por decifrar problemas complexos através do código. Meu foco pri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub"/>
 </div>
 
+<br>
+
+### 🌐 Front-end (Base & Estudos)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/>
+</div>
 ---
 
 ## 🚀 Projetos em Destaque
