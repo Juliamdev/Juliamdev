@@ -37,8 +37,7 @@ Sou fascinada por decifrar problemas complexos através do código. Meu foco pri
 
 ### 🧠 Inteligência Artificial & Ferramentas
 <div align="left">
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Logo-Ultralytics-White-Logomark.svg" height="35" title="YOLO / Ultralytics" style="filter: invert(58%) sepia(87%) saturate(417%) hue-rotate(129deg) brightness(91%) contrast(89%);"/>
-  <img width="12" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" height="30" title="YOLOv8" style="vertical-align: middle; margin-right: 12px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" title="OpenCV"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/>
@@ -56,6 +55,7 @@ Sou fascinada por decifrar problemas complexos através do código. Meu foco pri
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/>
 </div>
+
 ---
 
 ## 🚀 Projetos em Destaque
