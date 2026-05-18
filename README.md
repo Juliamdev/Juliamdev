@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20B2AA&center=true&width=600&lines=J%C3%BAlia+Marques+%7C+Dev+%26+AI+Research+%E2%9C%A8;Back-End+Developer;Inicia%C3%A7%C3%A3o+Cient%C3%ADfica+%40+PUC+Minas)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+J%C3%BAlia+Marques!+%E2%9C%A8;Desenvolvedora+Back-end+%26+IA;Bem-vindo(a)+ao+meu+perfil!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
