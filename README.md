@@ -9,10 +9,9 @@
 ## 🔬 Sobre Mim
 
 🎓 **Sistemas de Informação na PUC Minas** (3º Período)  
-🏛️ **Estagiária de TI na Receita Federal** 🧠 **Pesquisadora de Inteligência Artificial & Visão Computacional**
+🏛️ **Estagiária de Desenvolvimento de Software** 🧠 **Pesquisadora de Inteligência Artificial & Visão Computacional**
 
-Sou fascinada por decifrar problemas complexos através do código. Meu foco principal está na arquitetura **Back-end** e no desenvolvimento de soluções inteligentes que unem processamento de dados e IA para gerar impacto real. 
-
+Sou fascinada por decifrar problemas complexos através do código e criar soluções eficientes do início ao fim (*End-to-End*). No ecossistema corporativo, atuo no ciclo completo de software: desde a elaboração de **documentos de viabilidade** e **documentações técnicas**, até a arquitetura e codificação do sistema.
 ---
 
 
@@ -60,9 +59,11 @@ Sou fascinada por decifrar problemas complexos através do código. Meu foco pri
 
 ## 🚀 Projetos em Destaque
 
+* 🤖 **Sistemas de Automação (Estágio):** Desenvolvimento de soluções de ponta a ponta para otimização de processos e eliminação de tarefas manuais repetitivas usando **Python** e **TypeScript**.
+  
 * **🏥 Projeto YOLO Hospitalar (Iniciação Científica)** Desenvolvimento de um sistema de Visão Computacional utilizando o modelo **YOLOv8** para automatizar o reconhecimento e rastreio de insumos médicos. Uma solução focada em mitigar falhas humanas dentro do bloco cirúrgico.
   
-* **💰 VisionFinance** Plataforma de controle de fluxo de capital e análise de investimentos desenvolvida em **C# e .NET**, estruturada sob os pilares de Clean Architecture e forte consistência de dados relacionais.
+* **💰 VisionFinance ** Plataforma de controle de fluxo de capital e análise de investimentos desenvolvida em **C# e .NET**, estruturada sob os pilares de Clean Architecture e forte consistência de dados relacionais.
 
 ---
 
