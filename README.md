@@ -12,6 +12,7 @@
 🏛️ **Estagiária de Desenvolvimento de Software** 🧠 **Pesquisadora de Inteligência Artificial & Visão Computacional**
 
 Sou fascinada por decifrar problemas complexos através do código e criar soluções eficientes do início ao fim (*End-to-End*). No ecossistema corporativo, atuo no ciclo completo de software: desde a elaboração de **documentos de viabilidade** e **documentações técnicas**, até a arquitetura e codificação do sistema.
+
 ---
 
 
